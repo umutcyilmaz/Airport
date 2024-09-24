@@ -34,3 +34,11 @@ npm install
 Frontend:
 cd flight-app
 npm install
+
+<img width="1440" alt="a" src="https://github.com/user-attachments/assets/b47e1ecc-71bf-4dcc-b167-61ee1dd0f360">
+
+<img width="1440" alt="b" src="https://github.com/user-attachments/assets/af0c5b43-2366-40b5-918a-38dc76ef7ef9">
+
+<img width="1440" alt="c" src="https://github.com/user-attachments/assets/2989b4ba-3a72-4439-b58b-c9cdf3a9a1e6">
+
+
