@@ -39,6 +39,4 @@ npm install
 
 <img width="1440" alt="b" src="https://github.com/user-attachments/assets/af0c5b43-2366-40b5-918a-38dc76ef7ef9">
 
-<img width="1440" alt="c" src="https://github.com/user-attachments/assets/2989b4ba-3a72-4439-b58b-c9cdf3a9a1e6">
-
-
+<img width="1440" alt="c" src="https://github.com/user-attachments/assets/c8913a35-b092-44c7-8914-c44e217e4de1">
