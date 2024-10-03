@@ -21,7 +21,7 @@ Biletlerim Bölümü: Kaydedilen uçuşlarınızı görüntüleyebilir veya sile
 Kurulum ve Çalıştırma
 
 1. Depoyu Klonlayın
-git clone https://github.com/umutcyilmaz/AppFellasAirport.git
+git clone https://github.com/umutcyilmaz/Airport.git
 
 2. Proje Klasörüne Geçin
 cd AppFellas
